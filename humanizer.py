@@ -1,14 +1,14 @@
-# -*- encoding: utf-8 -*-
+ï»¿# -*- encoding: utf-8 -*-
 #	dict = {}
 #	i=1
 #
 #	while i < 24:
 #	if (i%20)==1:
-#		dict[i]="÷àñ"
+#		dict[i]="Ñ‡Ð°Ñ"
 #	else if (i%20)>1 and (i%20)<5:
-#		dict[i]="÷àñà"
+#		dict[i]="Ñ‡Ð°ÑÐ°"
 #	else:
-#		dict[i]="÷àñîâ"
+#		dict[i]="Ñ‡Ð°ÑÐ¾Ð²"
 #	i+=1
 #
 
